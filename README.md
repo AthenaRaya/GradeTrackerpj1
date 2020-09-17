@@ -23,9 +23,8 @@ LOGIN VIEW 1 - ADMIN VIEW
 <img src= "http://g.recordit.co/8YhvkBbeUe.gif" width=250><br>
 
 LOGIN VIEW 2 - STUDENT VIEW 
-
    [x] allows users to login or create an account
    [x] Displays user information (name, etc) and displays a list of user courses and grades.
    [x] Tapping a course will take the user to the course page
    [x] Users will be able to add new courses here
-<img scr = "http://g.recordit.co/IEnEGzc6We.gif" width=250><br>
+<img scr= "http://g.recordit.co/IEnEGzc6We.gif" width=250><br>

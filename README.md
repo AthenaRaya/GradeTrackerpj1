@@ -27,4 +27,5 @@ LOGIN VIEW 2 - STUDENT VIEW
    [x] Displays user information (name, etc) and displays a list of user courses and grades.
    [x] Tapping a course will take the user to the course page
    [x] Users will be able to add new courses here
-<img scr= "http://g.recordit.co/IEnEGzc6We.gif" width=250><br>
+
+<img src= "http://g.recordit.co/IEnEGzc6We.gif" width=250><br>

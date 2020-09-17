@@ -5,15 +5,15 @@ Android Dev Java
 The app will allow a user to create an account, login to
 their account, add courses, add grade categories to the courses, add assignments to the
 grade categories, and see a summary of their grades,
-###############
+
 
 
 Login view1 - Admin View 
-   [x] users login with creditals
-   [x] add/Edit/Delete Course
-   [x] Displays course information
-   [x] Allows Users to change the course information
-####### 
+   [*] users login with creditals
+   [*] add/Edit/Delete Course
+   [*] Displays course information
+   [*] Allows Users to change the course information
+
    [x] add/Edit/Delete Assignments
    [x] Displays Assignment information
    [x] Allows Users to change the Assignment information
